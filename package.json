@@ -1,0 +1,23 @@
+{
+    "name": "akheus.api",
+    "version": "0.0.1",
+    "description": "rest api interface for akheus app",
+    "keywords": ["network", "http", "wasitup", "uptime", "server", "web", "api"],
+    "homepage": "http://akhe.us",
+    "author": "apilo.us <info@apilo.us>",
+    "contributors": [
+        "Alper Kanat <tunix@apilo.us>"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/tunix/akheus.api.git"
+    },
+    "bugs": {
+        "url": "https://github.com/tunix/akheus.api/issues",
+        "email": "info@apilo.us"
+    },
+    "dependencies": {
+        "deployd": "0.6.x"
+    },
+    "private": true
+}
